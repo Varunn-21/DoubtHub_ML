@@ -1,5 +1,4 @@
-## deployed on render link  : 
-https://doubthub-ml-api.onrender.com
+## deployed on render link  :  https://doubthub-ml-api.onrender.com
 
 # Smart College Doubt Solving Platform: ML API
  
